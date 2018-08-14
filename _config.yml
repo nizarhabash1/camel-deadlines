@@ -4,11 +4,11 @@ description: Countdowns to top NLP conference deadlines
 author: Go Inoue
 
 domain:
-baseurl: "https://go-inoue.github.io/camel-deadlines"
+baseurl: "https://nizarhabash1.github.io/camel-deadlines"
 
 twitter_username:
 twitter_hashtag:
-github_username: go-inoue
+github_username: nizarhabash1
 github_repo: camel-deadlines
 
 markdown:
